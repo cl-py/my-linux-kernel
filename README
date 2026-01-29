@@ -1,6 +1,6 @@
 
 ---------------
-CS561/CS594 (Advanced Linux Kernel Programming) is a graduate-level CS course at UIC, which serves as an introduction to coding in a real-world kernel environment.
+CS561/CS594 (Advanced Linux Kernel Programming) is a graduate-level CS course at UIC, which serves as an introduction to coding in a Linux kernel environment.
 I was unfortunately unable to take this class during my time as an undergrad, but the professor has kindly granted me all course material.
 The following repo will list all of my implementations of assignments from the course as they were given to me. I use the assignments as inspiration rather than a rigid set of rules, so my implementations will differ from assignment instructions
 
